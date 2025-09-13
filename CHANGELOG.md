@@ -11,6 +11,13 @@ El formato sigue la convención [Keep a Changelog](https://keepachangelog.com/) 
 
 ---
 
+## [0.2.1] - 2025-09-13
+### Added
+- CODE_OF_CONDUCT.md con normas de conducta basadas en Contributor Covenant v2.1.
+- LICENSE.md con licencia MIT.
+
+---
+
 ## [0.2.0] - 2025-09-13
 ### Added
 - **Feature 2**: Se agregaron estilos básicos en `<head>` para mejorar la visualización de la página.
